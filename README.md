@@ -1,2 +1,2 @@
 # wifipass
-Get a lost of all wifi passwords entered previously
+Get a list of all wifi passwords entered previously in pC/Laptop
